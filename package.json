@@ -1,0 +1,19 @@
+{
+  "name": "node101",
+  "version": "0.1.0",
+  "description": "Basics of node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharyatilak/node101.git"
+  },
+  "author": "Tilak Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acharyatilak/node101/issues"
+  },
+  "homepage": "https://github.com/acharyatilak/node101#readme"
+}
